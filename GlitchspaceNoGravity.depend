@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1396728114 source:c:\users\spl3en\desktop\c\memproc\memchunk.c
+	"MemChunk.h"
+
+1396293652 c:\users\spl3en\desktop\c\memproc\memchunk.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1372104700 c:\users\spl3en\desktop\c\bbqueue\bbqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1398966989 c:\users\spl3en\desktop\c\win32tools\win32tools.h
+	<stdlib.h>
+	<windows.h>
+	<tlhelp32.h>
+	<time.h>
+	<psapi.h>
+	<wincon.h>
+	"../Ztring/Ztring.h"
+	"../Utils/Utils.h"
+
+1399330331 c:\users\spl3en\desktop\c\ztring\ztring.h
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	"../BbQueue/BbQueue.h"
+
+1398966955 c:\users\spl3en\desktop\c\utils\utils.h
+	<windows.h>
+
+1400535097 source:c:\users\spl3en\desktop\c\memproc\memproc.c
+	"MemProc.h"
+
+1400535090 c:\users\spl3en\desktop\c\memproc\memproc.h
+	<stdlib.h>
+	"MemChunk.h"
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1398966951 source:c:\users\spl3en\desktop\c\utils\utils.c
+	"Utils.h"
+
+1398966908 source:c:\users\spl3en\desktop\c\win32tools\win32tools.c
+	"Win32Tools.h"
+
+1398966688 source:c:\users\spl3en\desktop\c\ztring\ztring.c
+	"Ztring.h"
+
+1398300304 source:c:\users\spl3en\desktop\c\bbqueue\bbqueue.c
+	"BbQueue.h"
+
+1400536249 source:c:\users\spl3en\desktop\c\glitchspacenogravity\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../MemProc/MemProc.h"
+
+1396293652 source:c:\users\spl3en\desktop\c\scanner\scanner.c
+	"Scanner.h"
+
+1396293652 c:\users\spl3en\desktop\c\scanner\scanner.h
+	<stdlib.h>
+	"../MemProc/MemProc.h"
+
+1400536818 source:c:\users\spl3en\documents\github\glitchspacenogravity\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./MemProc/MemProc.h"
+
+1400535090 c:\users\spl3en\documents\github\glitchspacenogravity\memproc\memproc.h
+	<stdlib.h>
+	"MemChunk.h"
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1396293652 c:\users\spl3en\documents\github\glitchspacenogravity\memproc\memchunk.h
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"../BbQueue/BbQueue.h"
+	"../Win32Tools/Win32Tools.h"
+
+1372104700 c:\users\spl3en\documents\github\glitchspacenogravity\bbqueue\bbqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1398966989 c:\users\spl3en\documents\github\glitchspacenogravity\win32tools\win32tools.h
+	<stdlib.h>
+	<windows.h>
+	<tlhelp32.h>
+	<time.h>
+	<psapi.h>
+	<wincon.h>
+	"../Ztring/Ztring.h"
+	"../Utils/Utils.h"
+
+1399330331 c:\users\spl3en\documents\github\glitchspacenogravity\ztring\ztring.h
+	<stdarg.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	"../BbQueue/BbQueue.h"
+
+1398966955 c:\users\spl3en\documents\github\glitchspacenogravity\utils\utils.h
+	<windows.h>
+
+1396728114 source:c:\users\spl3en\documents\github\glitchspacenogravity\memproc\memchunk.c
+	"MemChunk.h"
+
+1400535097 source:c:\users\spl3en\documents\github\glitchspacenogravity\memproc\memproc.c
+	"MemProc.h"
+
+1396293652 source:c:\users\spl3en\documents\github\glitchspacenogravity\scanner\scanner.c
+	"Scanner.h"
+
+1396293652 c:\users\spl3en\documents\github\glitchspacenogravity\scanner\scanner.h
+	<stdlib.h>
+	"../MemProc/MemProc.h"
+
+1398966951 source:c:\users\spl3en\documents\github\glitchspacenogravity\utils\utils.c
+	"Utils.h"
+
+1398966908 source:c:\users\spl3en\documents\github\glitchspacenogravity\win32tools\win32tools.c
+	"Win32Tools.h"
+
+1398966688 source:c:\users\spl3en\documents\github\glitchspacenogravity\ztring\ztring.c
+	"Ztring.h"
+
+1398300304 source:c:\users\spl3en\documents\github\glitchspacenogravity\bbqueue\bbqueue.c
+	"BbQueue.h"
+
